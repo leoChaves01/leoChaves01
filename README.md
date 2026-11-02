@@ -5,7 +5,7 @@
 
 Interfaces responsivas, experiências digitais e produtos web.
 
-[Portfólio](https://github.com/leoChaves01/portifolio) · [LinkedIn](https://www.linkedin.com/in/leonardo-chaves-528a6229a) · [RLA Tech](https://www.rlatech.com.br)
+[Portfólio](https://portifolio-nu-snowy-97.vercel.app) · [LinkedIn](https://www.linkedin.com/in/leonardo-chaves-528a6229a) · [RLA Tech](https://www.rlatech.com.br)
 
 </div>
 

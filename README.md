@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Leonardo%20Chaves&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=FRONT-END%20DEVELOPER&descAlignY=58&descSize=17" alt="Leonardo Chaves — Front-end Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Leonardo%20Chaves&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20JR&descAlignY=58&descSize=17" alt="Leonardo Chaves — Full Stack Developer Júnior" />
 
 ### Transformando ideias em experiências digitais.
 
-React & Next.js · Interfaces responsivas · Produtos web
+React · Next.js · Node.js · TypeScript
 
 <br />
 
@@ -14,7 +14,7 @@ React & Next.js · Interfaces responsivas · Produtos web
 
 <br /><br />
 
-**São Paulo, Brasil** &nbsp; / &nbsp; Front-end Júnior &nbsp; / &nbsp; 1,5 ano de experiência
+**São Paulo, Brasil** &nbsp; / &nbsp; Full Stack Júnior &nbsp; / &nbsp; Foco em Front-end
 
 </div>
 
@@ -22,7 +22,7 @@ React & Next.js · Interfaces responsivas · Produtos web
 
 ## 👨‍💻 &nbsp; Sobre mim
 
-Sou **Leonardo Chaves**, desenvolvedor Front-end e estudante de **Análise e Desenvolvimento de Sistemas na FAM**. Construo interfaces com atenção à usabilidade, responsividade e organização do código.
+Sou **Leonardo Chaves**, desenvolvedor **Full Stack Júnior com foco em Front-end** e estudante de **Análise e Desenvolvimento de Sistemas na FAM**. Tenho **1 ano e meio de experiência profissional como Desenvolvedor Front-End Júnior**. Nos meus projetos, também trabalho com Node.js, APIs REST, autenticação e PostgreSQL, conectando interfaces às regras de negócio e ao banco de dados.
 
 Na **RLA Tech**, desenvolvo sites e produtos digitais, conectando apresentação visual e funcionalidades para criar experiências fáceis de usar.
 
@@ -151,7 +151,7 @@ Minha experiência, formação e projetos reunidos em uma interface responsiva.
 
 ## Vamos construir algo juntos?
 
-Tenho interesse em oportunidades de **desenvolvimento júnior**, com foco em Front-end e aplicações web, em São Paulo ou remotamente.
+Tenho interesse em oportunidades de **Full Stack Júnior e Front-end Júnior**, em São Paulo ou remotamente.
 
 **[Converse comigo no LinkedIn ↗](https://www.linkedin.com/in/leonardo-chaves-528a6229a)**
 
